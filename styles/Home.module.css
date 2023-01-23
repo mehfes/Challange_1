@@ -1,0 +1,35 @@
+.container {
+  padding: 0;
+  margin: 0;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    background-color: rgb(7, 2, 38);
+    color: rgb(163, 163, 163);
+}
+.fib {
+  padding: 10;
+  max-width: 20;
+  color: rgb(255, 255, 255);
+  font-family: fantasy;
+  font-weight: 200;
+  margin-block:inherit  ;
+}
+
+/* Header */
+
+/* Main */
+.container main {
+width: 50%;
+height: 100%;
+padding: 50px;
+text-align: center;
+margin: auto;
+}
+
+.container main h1 {
+font-size: 3em;
+margin-bottom: 20px;
+font-family:'Times New Roman', Times, serif ;
+}
+
+/* Footer */
